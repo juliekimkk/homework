@@ -1051,7 +1051,7 @@ div#bottom #bottom8 a:hover{
 	height: 30px;
 	background: url("../image/twitter.png") no-repeat;
 	background-size: 40px 30px;
-	display: inline-block;
+	display: inline-block; /*테스트*/ /*테스트두번째*/
 }
 
 
